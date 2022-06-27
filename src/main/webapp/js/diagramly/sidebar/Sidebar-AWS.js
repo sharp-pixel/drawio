@@ -51,8 +51,8 @@
 		[
 		 this.createVertexTemplateEntry(s + 'analytics.data_pipeline;strokeColor=none;',
 				 60, 72, '', 'Data Pipeline', null, null, this.getTagsForStencil(gn, 'data pipeline', dt).join(' ')),
-		 this.createVertexTemplateEntry(s + 'analytics.elasticsearch;strokeColor=none;',
-				 60, 72, '', 'ElasticSearch', null, null, this.getTagsForStencil(gn, 'elasticsearch', dt).join(' ')),
+		 this.createVertexTemplateEntry(s + 'analytics.opensearch;strokeColor=none;',
+				 60, 72, '', 'OpenSearch', null, null, this.getTagsForStencil(gn, 'opensearch', dt).join(' ')),
 		 this.createVertexTemplateEntry(s + 'analytics.emr;strokeColor=none;',
 				 60, 72, '', 'EMR', null, null, this.getTagsForStencil(gn, 'emr', dt).join(' ')),
 		 this.createVertexTemplateEntry(s + 'compute_and_networking.emr_cluster;strokeColor=none;',

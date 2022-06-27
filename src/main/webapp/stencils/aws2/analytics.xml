@@ -83,7 +83,7 @@
         <fillstroke/>
     </foreground>
 </shape>
-<shape aspect="variable" h="72" name="ElasticSearch" strokewidth="inherit" w="59.6">
+<shape aspect="variable" h="72" name="OpenSearch" strokewidth="inherit" w="59.6">
     <connections>
         <constraint name="N" perimeter="0" x="0.5" y="0"/>
         <constraint name="S" perimeter="0" x="0.5" y="1"/>

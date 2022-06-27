@@ -12624,7 +12624,7 @@
         <fill/>
     </foreground>
 </shape>
-<shape aspect="variable" h="53.99" name="ElasticSearch Service" strokewidth="inherit" w="44.7">
+<shape aspect="variable" h="53.99" name="OpenSearch Service" strokewidth="inherit" w="44.7">
     <connections>
         <constraint name="N" perimeter="0" x="0.5" y="0"/>
         <constraint name="S" perimeter="0" x="0.5" y="1"/>
